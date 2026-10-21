@@ -1,0 +1,7 @@
+# Windows 64-bit CPython 3.13 wheels supported (install script enforces binary wheels)
+streamlit>=1.43,<2
+pandas>=2.2.3,<3
+numpy>=1.26.4,<3
+plotly>=5.24,<7
+yfinance>=0.2.54,<2
+pytest>=8,<10
